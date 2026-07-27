@@ -1,5 +1,9 @@
 > Get the latest release: https://github.com/avwo/whistle-client/releases
 
+# v1.6.8
+1. feat: update whistle to v2.10.7
+2. feat: add `Hidt To Tray` option
+
 # v1.6.7
 1. feat: update whistle to v2.10.6
 
